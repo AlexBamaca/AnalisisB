@@ -1,1 +1,0 @@
-:trophy: C0.1 Reto en clase
