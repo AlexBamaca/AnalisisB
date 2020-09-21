@@ -10,6 +10,6 @@
   > Esta sección se actualizará proximámente...
 
 ___
-###### powered by Visual Studio Code & git. 16211969, Manuel Bamaca (C) 2020.
+###### powered by Visual Studio Code & git. 16211969, Manuel Bamaca © 2020.
 
 
