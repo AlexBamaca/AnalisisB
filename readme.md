@@ -7,10 +7,11 @@
 
   ![Fortnite](https://progameguides.com/wp-content/uploads/2020/02/featured-fortnite-c2-season2-guide.jpg)
 ___
-- *Índice*
-  - Unidad 1
-    - [C0.1_ManuelBamaca_SupremeCoders.md](/blog/C0.1_ManuelBamaca_SupremeCoders.md)
-    - [C0.2_ManuelBamaca_SupremeCoders.md](blog/C0.2_ManuelBamaca_SupremeCoders.md)
+- :books: *Índice*
+  - :closed_book: Unidad 1
+    - :bookmark_tabs: [C0.1_ManuelBamaca_SupremeCoders.md](/blog/C0.1_ManuelBamaca_SupremeCoders.md)
+    - :bookmark_tabs: [C0.2_ManuelBamaca_SupremeCoders.md](blog/C0.2_ManuelBamaca_SupremeCoders.md)
+
 
   > Esta sección se actualizará proximámente...
 
