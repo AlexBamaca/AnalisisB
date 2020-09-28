@@ -12,9 +12,11 @@ ___
     - :bookmark_tabs: [C0.1_Integracion de Equipos](/blog/C0.1_ManuelBamaca_SupremeCoders.md)
     - :bookmark_tabs: [C0.2_Mapa mental sobre la Ingenieria de Software](blog/C0.2_ManuelBamaca_SupremeCoders.md)
     - :bookmark_tabs: [C0.3_Diagrama de Flujo](/blog/C0.3_ManuelBamaca_SupremeCoders.md)
-    - :bookmark_tabs: 
+    - :bookmark_tabs: [C0.4_Sistema de embedido y adquisicion de datos](blog/C0.4_ManuelBamaca_SupremeCoders.md)
 
-  > Esta sección se actualizará proximámente...
+
+
+> Esta sección se actualizará proximámente...
 
 ___
 ###### powered by Visual Studio Code & git. 16211969, Manuel Bamaca © 2020.
