@@ -15,6 +15,7 @@ ___
     - :bookmark_tabs: [C0.4_Sistema de embedido y adquisicion de datos](blog/C0.4_ManuelBamaca_SupremeCoders.md)
     - :bookmark_tabs: [C1.1_Definicion de Objetivos asi como el modelado del negocio]()
     - :bookmark_tabs: [C1.2_Elaboracion de acta constitutiva del proyecto](blog/C1.2_ManuelBamaca_SupremeCoders.md)
+    - :bookmark_tabs: [C1.3_Requisitos de usuario y del sistema para el caso de estudio](blog/C1.3_ManuelBamaca_SupremeCoders.md)
 
 
 
