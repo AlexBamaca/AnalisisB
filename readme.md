@@ -5,7 +5,7 @@
   - Este es un repositorio en _gitHub_ creado para la materia de Analisis Avanzado de Software.
   Las practicas o ejercicios realizados fueron realizados por mi y/o con ayuda en conjunto del equipo de programacion de la materia: _SUPREME CODERS_ :fire:.
 
-  ![Fortnite](https://progameguides.com/wp-content/uploads/2020/02/featured-fortnite-c2-season2-guide.jpg)
+![Fortnite](https://progameguides.com/wp-content/uploads/2020/02/featured-fortnite-c2-season2-guide.jpg)  
 ___
 - :books: *Índice*
   - :closed_book: Unidad 1
