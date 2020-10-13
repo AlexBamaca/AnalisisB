@@ -5,7 +5,7 @@
   - Este es un repositorio en _gitHub_ creado para la materia de Analisis Avanzado de Software.
   Las practicas o ejercicios realizados fueron realizados por mi y/o con ayuda en conjunto del equipo de programacion de la materia: _SUPREME CODERS_ :fire:.
 
-  ![Fortnite](https://progameguides.com/wp-content/uploads/2020/02/featured-fortnite-c2-season2-guide.jpg)
+![Fortnite](https://progameguides.com/wp-content/uploads/2020/02/featured-fortnite-c2-season2-guide.jpg)  
 ___
 - :books: *Índice*
   - :closed_book: Unidad 1
@@ -15,7 +15,8 @@ ___
     - :bookmark_tabs: [C0.4_Sistema de embedido y adquisicion de datos](blog/C0.4_ManuelBamaca_SupremeCoders.md)
     - :bookmark_tabs: [C1.1_Definicion de Objetivos asi como el modelado del negocio]()
     - :bookmark_tabs: [C1.2_Elaboracion de acta constitutiva del proyecto](blog/C1.2_ManuelBamaca_SupremeCoders.md)
-    - :bookmark_tabs: [C1.3_Requisitos de usuario y del sistema para el caso de estudio](blog/C1.3_ManuelBamaca_SupremeCoders.md)
+    - :bookmark_tabs: [C1.3_Requisitos de usuario y del sistema](blog/C1.3_ManuelBamaca_SupremeCoders.md)
+    - :bookmark_tabs: [C1.4_Modelado de requisitos](blog/C1.4_ManuelBamaca_SupremeCoders.md)
 
 
 
