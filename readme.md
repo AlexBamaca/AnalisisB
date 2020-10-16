@@ -17,6 +17,7 @@ ___
     - :bookmark_tabs: [C1.2_Elaboracion de acta constitutiva del proyecto](blog/C1.2_ManuelBamaca_SupremeCoders.md)
     - :bookmark_tabs: [C1.3_Requisitos de usuario y del sistema](blog/C1.3_ManuelBamaca_SupremeCoders.md)
     - :bookmark_tabs: [C1.4_Modelado de requisitos](blog/C1.4_ManuelBamaca_SupremeCoders.md)
+    - :bookmark_tabs: [C1.5_Modelado de requisitos a través de diagramas estructurados](blog/C1.5_ManuelBamaca_SupremeCoders.md)
 
 
 
