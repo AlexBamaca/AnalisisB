@@ -37,7 +37,8 @@ ___
 
 > Esta sección se actualizará proximámente...
 
-<div align="center"><img src=""></div>
+<div align="center"><img src="https://github.com/AlexBamaca/AnalisisB/blob/master/img/f/Huella-337x400.png" alt="midas hand"></div>
+
 ___
 ###### powered by Visual Studio Code & git. 16211969, Manuel Bamaca © 2020.
 
