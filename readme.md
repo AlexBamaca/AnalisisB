@@ -1,4 +1,4 @@
-<div align="center"> <p><h2><i>!Bienvenido Internauta!</i> 👽🙌🏻</h2></p> </div>
+<div align="center"> <p><h1><i>!Bienvenido Internauta!</i> 👽🙌🏻</h1></p> </div>
 
 ___
 ##### Introduccion a la clase...
@@ -10,11 +10,12 @@ ___
 | Alumno | Manuel Alejandro Bamaca Trujillo |
 | Hora | 19:00 - 20:00 hrs |
 | Dias | Lunes a Jueves |
+| Docente | Leonardo Enriquez |
 
 
 :arrow_right:  Este es un repositorio en _gitHub_ con origen en Visual Studio Code, creado para la materia de Analisis Avanzado de Software que se toma en el Instituto Tecnologico de Tijuana.
 
-:arrow_right: Las practicas y actividades que se encuentran en estas carpetas son realizadas por mi y con ayuda en conjunto del equipo de programacion de la materia: _SUPREME CODERS_. Apartir de la actividades C1.1 las actividades fueron realizadas en equipo. :family::fire:.
+:arrow_right: Las practicas y actividades que se encuentran en estas carpetas son realizadas por mi y con ayuda en conjunto del equipo de programacion de la materia: _SUPREME CODERS_. Apartir de la actividades C1.1 las actividades fueron realizadas en equipo. 👨‍👨‍👦:fire:.
 
 ![Fortnite](https://progameguides.com/wp-content/uploads/2020/02/featured-fortnite-c2-season2-guide.jpg)  
 ___
@@ -36,8 +37,7 @@ ___
 
 > Esta sección se actualizará proximámente...
 
-
-![F](..img/../img/f/images.jpg)
+<div align="center"><img src=""></div>
 ___
 ###### powered by Visual Studio Code & git. 16211969, Manuel Bamaca © 2020.
 
