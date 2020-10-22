@@ -33,9 +33,10 @@ ___
     - :bookmark_tabs: [C1.5_Modelado de requisitos a través de diagramas estructurados](blog/C1.5_ManuelBamaca_SupremeCoders.md)
     - :bookmark_tabs: [A1.1_Modelado de requisitos a través de diagramas UML](docs/A1.1_ManuelBamaca_SupremeCoders.md)
   - :green_book: **Unidad 2**
-    - :bookmark_tabs: [C2.1_Especificacion de Requerimientos Funcionales]()
+    - :bookmark_tabs: [C2.1_Especificacion de Requerimientos Funcionales](../blog/C2.1_ManuelBamaca_SupremeCoders.md)
+    - :bookmark_tabs: [C2.2_]()
 
-> Esta sección se actualizará proximámente...
+> Esta sección se actualizará proximámente conforme se agreguen actividades.
 
 <div align="center"><img src="https://github.com/AlexBamaca/AnalisisB/blob/master/img/f/Huella-337x400.png" alt="midas hand" width="100"></div>
 
