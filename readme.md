@@ -2,6 +2,15 @@
 ## <center> *¡Bienvenido internauta!* :alien::raised_hands: </center>
 
 ##### Materia: ADF-1702IF8A ANÁLISIS AVANZADO DE SOFTWARE.  Alumno: Manuel Alejandro Bamaca Trujillo
+
+
+|  | Datos de la materia |
+| - | - |
+| Materia | ADF-1702IF8A - Analisis Avanzado de Software |
+| Alumno | Manuel Alejandro Bamaca Trujillo |
+| Hora | 19:00 - 20:00 hrs |
+| Dias | Lunes a Jueves |
+
   - Este es un repositorio en _gitHub_ creado para la materia de Analisis Avanzado de Software.
   Las practicas o ejercicios realizados fueron realizados por mi y/o con ayuda en conjunto del equipo de programacion de la materia: _SUPREME CODERS_ :fire:.
 
