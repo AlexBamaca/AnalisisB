@@ -36,7 +36,8 @@ ___
 
 > Esta sección se actualizará proximámente...
 
-![F](..img/f/)
+
+![F](..img/../img/f/images.jpg)
 ___
 ###### powered by Visual Studio Code & git. 16211969, Manuel Bamaca © 2020.
 
