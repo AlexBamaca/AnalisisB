@@ -36,6 +36,7 @@ ___
   - :green_book: **Unidad 2**
     - :bookmark_tabs: [C2.1_Especificacion de Requerimientos Funcionales](blog/C2.1_ManuelBamaca_SupremeCoders.md)
     - :bookmark_tabs: [C2.2_Requisitos no funcionales del sistema](blog/C2.2_ManuelBamaca_SupremeCoders.md)
+    - :bookmark_tabs: [A2.1_Especificacion de requisitos y documentacion](docs/A2.1_ManuelBamaca_SupremeCoders.md)
 
 > Esta sección se actualizará proximámente conforme se agreguen actividades.
 
