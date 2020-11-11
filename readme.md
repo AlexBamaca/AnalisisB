@@ -40,6 +40,7 @@ ___
     - :bookmark_tabs: [C2.3_Decisiones en el diseño de arquitectura](blog/C2.3_ManuelBamaca_SupremeCoders.md)
     - :bookmark_tabs: [C2.4_Estilos, patrones  de arquitectura de software](blog/C2.4_ManuelBamaca_SupremeCoders.md)
     - :scroll: [A2.2_Diseño de la arquitectura 4+1](docs/A2.2_ManuelBamaca_SupremeCoders.md)
+    - :scroll: [A2.3_Patrones de arquitectura de software](docs/A2.3_ManuelBamaca_SupremeCoders.md)
 
 > Esta sección se actualizará proximámente conforme se agreguen actividades.
 
