@@ -45,6 +45,7 @@ ___
     - :bookmark_tabs: [C3.1_Metodo agil Design thinking aliado al desarrollo de software](blog/C3.1_ManuelBamaca_SupremeCoders.md) 
     - :bookmark_tabs: [C3.2_Fase inicio del marco de trabajo SCRUM para el caso de estudio.](blog/C3.2_ManuelBamaca_SupremeCoders.md)
     - :scroll: [A3.2_Metodo agil Design thinking aliado al desarrollo de software](docs/A3.2_ManuelBamaca_SupremeCoders.md)
+    - :scroll: [A3.3_Documentación del proyecto utilizando el framework Scrum para la fase planificación y estimación.](docs/A3.3_ManuelBamaca_SupremeCoders.md)
 
 > Esta sección se actualizará proximámente conforme se agreguen actividades.
 
