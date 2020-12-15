@@ -11,7 +11,7 @@ ___
 | No. Control | 16211969 |
 | Hora | 19:00 - 20:00 hrs |
 | Dias | Lunes a Jueves |
-| Docente | Ing. Leonardo Enriquez |
+| Docente | Mtro. Leonardo Enriquez |
 
 
 :arrow_right:  Este es un repositorio en _gitHub_ con origen en Visual Studio Code, creado para la materia de Analisis Avanzado de Software que se toma en el Instituto Tecnologico de Tijuana.
